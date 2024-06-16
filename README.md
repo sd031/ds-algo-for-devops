@@ -1,6 +1,6 @@
 # DS & Algo For DevOps Engineers (DADE)
 
-[Series Topics: ](https://github.com/sd031/ds-algo-for-devops/assets/6078551/427105a1-3e2e-49ee-a968-719f512250fe)
+![Course Topics](https://github.com/sd031/ds-algo-for-devops/assets/6078551/427105a1-3e2e-49ee-a968-719f512250fe)
 
 
 ## Introduction to DS & Algo
